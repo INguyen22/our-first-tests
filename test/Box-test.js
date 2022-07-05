@@ -2,7 +2,7 @@
  const expect = chai.expect;
  const Box = require('../src/Box');
 
- describe('box', () => {
+ describe('Box', () => {
 
     it('should return true', () => {
         expect(true).to.equal(true)
